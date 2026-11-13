@@ -7,7 +7,7 @@ a private notebook and a free public course, with the tools the mentor and staff
 
 > This repository holds no code. The portal's source is private, and the course material inside it (lessons, chart
 > practice, tests and their answers) is confidential under the student terms. This page shows what the product does,
-> how it is built and what made it hard. Any screenshots use sample data.
+> how it is built and what made it hard. Screenshots use sample data: made-up students and a local copy of the portal.
 
 ## At a glance
 
@@ -36,6 +36,8 @@ Lessons are read on a calm "paper" page, section by section. The portal keeps ea
 sections they have read through, opens lessons on a schedule for each group of students, and lets students download
 or print a lesson with their name watermarked on every page.
 
+<p align="center"><img src="images/p3xa-learn-lesson.png" alt="A Trading basics lesson on the cream reading page, desktop"></p>
+
 ### Chart reps and the rep builder
 A **rep** is one short chart exercise on real gold (XAUUSD) price history: read the chart, mark your answer with
 drawing tools that work like TradingView's, get marked at once. The mentor and chosen helpers build reps in the
@@ -43,11 +45,15 @@ drawing tools that work like TradingView's, get marked at once. The mentor and c
 engine works the answer out from the candles before it is saved. The answer stays on the server until the student
 has answered.
 
+<p align="center"><img src="images/p3xa-learn-rep-builder.png" alt="The rep builder: real XAUUSD price history, timeframes and the slice tools"></p>
+
 ### The mastery path and proficiency checks
 Rep types open one at a time, in the mentor's order. A student passes a type with a run of right answers on
 consecutive days; with difficulty levels switched on, they pass a check at each level before moving up. For some
 types students then build reps of their own, which the mentor, staff or trusted students review. An approved rep
 can join the pool everyone practises on.
+
+<p align="center"><img src="images/p3xa-learn-rep-path.png" alt="A student part-way along the rep path on a phone" width="300"></p>
 
 ### Disputes
 When a student believes a rep was marked wrongly, they dispute it with their reasoning. Disputes land in the mentor's
@@ -59,6 +65,8 @@ A private notebook beside every lesson and recording. A note files itself under 
 written on. Any note can become a question with the student's own possible answers; a question that is still open
 after real work can go to the mentor's queue, and the reply comes back into the notebook. Students can save it as a
 PDF, keep a backup file, share it with the mentor if they choose, or delete it with seven days to undo.
+
+<p align="center"><img src="images/p3xa-learn-notebook.png" alt="The notebook open over a lesson on a phone, with notes and an open question" width="300"></p>
 
 ### Trading basics: a free public course
 A free course at [learn.p3xa.trade/basics](https://learn.p3xa.trade/basics) for anyone in the P3xA Discord server,
@@ -74,6 +82,10 @@ pages, data and access rules, behind a switch the mentor turns from the settings
 - **Release schedule and groups:** lessons open by group of students on the mentor's calendar.
 - **Insights and nudges:** who has gone quiet, with a nudge that can also go by email (with one-click unsubscribe).
 - **Settings and switches:** roles, staff, fees and feature switches, each change audited.
+
+<p align="center"><img src="images/p3xa-learn-today.png" alt="The team's Today page: exercises to mark, disputes and session topics waiting"></p>
+
+<p align="center"><img src="images/p3xa-learn-editor.gif" alt="The lesson editor: an edit saved as a draft, published as a new version, then the version history with Restore"></p>
 
 ## What made it hard
 
