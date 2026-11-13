@@ -9,6 +9,8 @@ a private notebook and a free public course, with the tools the mentor and staff
 > practice, tests and their answers) is confidential under the student terms. This page shows what the product does,
 > how it is built and what made it hard. Screenshots use sample data: made-up students and a local copy of the portal.
 
+<p align="center"><img src="images/p3xa-learn-hero.gif" alt="A student opens the day's swing points rep on a phone, draws the path, marks the swing points and is marked correct" width="320"></p>
+
 ## At a glance
 
 | | |
